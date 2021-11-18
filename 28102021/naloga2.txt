@@ -1,0 +1,15 @@
+* a9044d7 (origin/featureA) added new feature title
+| * 2bd3dca (origin/myfork) modified git.html
+|/  
+* d6e496e (HEAD -> master, origin/master, origin/HEAD) all DEVEL changed to MASTER
+| * 7da62ab (origin/devel) heading changed to DEVELOPMENT
+| * 57119a1 all MASTER changed to DEVEL
+|/  
+* 6e629f0 updated git.html fixed title
+* d85b320 updated git.html fixed two table problem
+* 9001321 updated git.html
+* 56e00bd nov naslov
+* 650bc24 Initial commit
+
+a) Da
+b) Pri commit-ih 6e629f0 in d6e496e
